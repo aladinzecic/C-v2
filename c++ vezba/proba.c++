@@ -163,3 +163,32 @@
 // }
 // ispis(niz,n);
 // }
+
+
+
+
+//KLASE
+// class Student{
+//     char ime[10];
+//     char prezime[20];
+//     int brIndeksa;
+//     public:
+//     void incijalizacija(char *p,char*i,int br){
+//         strcpy(ime,i);
+//         strcpy(prezime,p);
+//         brIndeksa=br;
+
+//     }
+//     void prikaz(){
+//         cout<<ime<<" "<<prezime;
+//     }
+    
+// };
+
+// int main()
+// {    Student matematicar;
+//      matematicar.incijalizacija("ibrahimovic","adnan",16);
+//      matematicar.prikaz();
+
+//     return 0;
+// }
