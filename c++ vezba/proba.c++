@@ -192,3 +192,33 @@
 
 //     return 0;
 // }
+
+
+
+
+// class Tacka{
+//     int x;
+//     int y;
+//     public:
+//     void incijalizacija(int x,int y){
+//         this->x=x;
+//         this->y=y;
+//     }
+//     void prikaz(){
+//         cout<<x<<" "<<y<<endl;
+//     }
+//     void transliranje(int dx,int dy){
+//         x+=dx;
+//         y+=dy;
+//     }
+    
+// };
+
+// int main()
+// {    Tacka tackica;
+//      tackica.incijalizacija(5,6);
+//      tackica.prikaz();
+//      tackica.transliranje(1,-4);
+//      tackica.prikaz();
+
+//     return 0;
