@@ -222,3 +222,12 @@
 //      tackica.prikaz();
 
 //     return 0;
+
+// int main()
+// {    Tacka tackica;
+//      tackica.incijalizacija(5,6);
+//      tackica.prikaz();
+//      tackica.transliranje(1,-4);
+//      tackica.prikaz();
+
+//     return 0;
